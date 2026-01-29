@@ -1,11 +1,15 @@
-<- 👋 Hi, I’m @Nick-Rodgers
-- 👀 I’m interested in becoming an all round IT expert...
-- 🌱 I’m currently learning programming languages...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me thorough my wattsapp null
-- #0102005696 / my email ;nickrodgers166@gmail.com...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hi there 👋 I'm NickRodgers
+
+🚀 Aspiring AI & Backend Developer from Kenya  
+💻 I build AI automation, smart web apps, and backend solutions  
+🌱 Currently learning advanced AI integration & cloud deployment  
+📫 Reach me: nickrodgers166@gmail.com
+
+### 🛠️ Tech & Tools
+Node.js | Python | MongoDB | Express | Git | GitHub | AI APIs
+
+### 📂 Featured Projects
+;;;;;;;
 
 <!---
 Nick-Rodgers/Nick-Rodgers is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
